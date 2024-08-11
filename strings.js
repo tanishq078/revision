@@ -10,3 +10,5 @@ let game = "snake and ladder";
 console.log(game);
 
 console.log(gameName.__proto__);
+
+ 
